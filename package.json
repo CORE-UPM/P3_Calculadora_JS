@@ -9,7 +9,7 @@
         "githubURL": "CORE-UPM/P3_Calculadora_JS",
         "serverUrl": "https://aat.dit.upm.es/",
         "courseId": "395",
-        "assignmentId": "450"
+        "assignmentId": "8546"
     },
     "dependencies": {
         "autocorector": "^3.2.2"
