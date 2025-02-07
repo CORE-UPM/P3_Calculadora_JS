@@ -5,7 +5,7 @@
 
 # Entrega 3 - Calculadora JS
 
-Versión: 19 de Febrero de 2024
+Versión: 7 de Febrero de 2025
 
 ## Objetivo
 
